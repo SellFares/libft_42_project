@@ -6,11 +6,13 @@
 /*   By: fsellami <fsellami@student.42kl.edu.m      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/27 17:57:24 by fsellami          #+#    #+#             */
-/*   Updated: 2026/07/27 18:09:13 by fsellami         ###   ########.fr       */
+/*   Updated: 2026/07/29 22:18:28 by fsellami         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_strlen(char *str)
+#include <unistd.h>
+
+size_t	ft_strlen(const char *str)
 {
 	int	i;
 
