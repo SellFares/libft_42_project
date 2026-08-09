@@ -6,7 +6,7 @@
 /*   By: fsellami <fsellami@student.42kl.edu.m      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/29 22:33:01 by fsellami          #+#    #+#             */
-/*   Updated: 2026/07/29 22:36:16 by fsellami         ###   ########.fr       */
+/*   Updated: 2026/07/30 17:30:43 by fsellami         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@ int	ft_tolower(int c)
 		return (c);
 }
 
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -32,3 +33,4 @@ int	main(void)
 
 	return (0);
 }
+*/
